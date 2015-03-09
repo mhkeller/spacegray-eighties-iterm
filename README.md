@@ -9,14 +9,13 @@ It contains two versions
 
 This will match the theme exactly.
 
-![](http://github.com/mhkeller/spacegray-eighties-iterm/assets/eighties.jpg)
+![](https://raw.githubusercontent.com/mhkeller/spacegray-eighties-iterm/master/assets/eighties.jpg)
 
 ##### Spacegray eighties dull
 
 If you find that to be a little too bright, this version is a little dulled. I find it preferable.
 
-![](http://github.com/mhkeller/spacegray-eighties-iterm/assets/eighties-dull
-.jpg)
+![](https://raw.githubusercontent.com/mhkeller/spacegray-eighties-iterm/master/assets/eighties-dull.jpg)
 
 
 ### Installation
