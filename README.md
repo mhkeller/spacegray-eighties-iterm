@@ -13,7 +13,7 @@ This will match the theme exactly.
 
 ##### Spacegray eighties dull
 
-If you find that to be a little too bright, this version is a little dulled. I find it preferable.
+I use this slightly dulled version.
 
 ![](https://raw.githubusercontent.com/mhkeller/spacegray-eighties-iterm/master/assets/eighties-dull.jpg)
 
