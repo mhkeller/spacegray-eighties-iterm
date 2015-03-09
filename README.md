@@ -1,7 +1,7 @@
 Spacegray Eighties for iTerm2
 ===
 
-This will match your iTerm2 theme to the [Spacegray Eighties](http://github.com/kkga/spacegray) Sublime theme.
+This will match your iTerm2 theme to the [Spacegray Eighties](http://github.com/mhkeller/spacegray) Sublime theme.
 
 It contains two versions
 
