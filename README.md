@@ -20,6 +20,7 @@ There's also a slightly dulled version, which is what I use.
 
 ### Installation
 
+* [Download these files](https://github.com/mhkeller/spacegray-eighties-iterm/archive/master.zip)
 * Launch iTerm 2.
 * Type cmd+i
 * Navigate to `Colors` tab
