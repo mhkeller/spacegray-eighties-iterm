@@ -22,7 +22,7 @@ There's also a slightly dulled version, which is what I use.
 
 * [Download these files](https://github.com/mhkeller/spacegray-eighties-iterm/archive/master.zip)
 * Launch iTerm 2.
-* Type <kbd>cmd</kbd>+i
+* Type <kbd>cmd</kbd>+<kbd>i</kbd>
 * Navigate to `Colors` tab
 * Click on `Load Presets`
 * Click on `Import`
